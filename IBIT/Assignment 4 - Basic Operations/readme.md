@@ -88,14 +88,6 @@ ellipse(width/2, height/2+height/8, sizeOfShape/4, sizeOfShape/4);
 
 Create a sketch named initials.pde that prints your initials to the console using nine rows of asterisks.
 
- 
-
-For example, here is the sketch output for the initials KAG:
-
-
-
- 
-
 Do not worry too much about the look of your initials as long as they are readable.
 
  
