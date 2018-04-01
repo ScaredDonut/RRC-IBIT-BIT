@@ -92,16 +92,6 @@ Create a sketch named initials.pde that prints your initials to the console usin
 
 For example, here is the sketch output for the initials KAG:
 
- 
-**        ***           *             *******
-**      ***            ***           *********
-**    ***             ** **         **       **
-**  ***              **   **       **      
-*****               *********     **         ***
-**  ***            ***********     **      *****
-**    ***         **         **     **        **
-**      ***      **           **     **********
-**        ***    *             *      ********
 
 
  
