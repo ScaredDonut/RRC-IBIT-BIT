@@ -1,10 +1,3 @@
----
-title: Assignment Four - Basic Operations
-layout: post
-permalink: /untitled-document/
-source-id: 1BGBMhVZn7MBHSO2bzAs7FHwRvkSBRMj7AVxXfDd5zGs
-published: true
----
 Assignment Four - Intro to Processing
 
 ** **
@@ -100,24 +93,16 @@ Create a sketch named initials.pde that prints your initials to the console usin
 For example, here is the sketch output for the initials KAG:
 
  
-
 **        ***           *             *******
-
 **      ***            ***           *********
-
 **    ***             ** **         **       **
-
 **  ***              **   **       **      
-
 *****               *********     **         ***
-
 **  ***            ***********     **      *****
-
 **    ***         **         **     **        **
-
 **      ***      **           **     **********
-
 **        ***    *             *      ********
+
 
  
 
