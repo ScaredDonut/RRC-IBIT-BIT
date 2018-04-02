@@ -206,7 +206,7 @@ Type the following sketch into the processing IDE and run it. Then read the expl
 
  
 
-[[https://lh3.googleusercontent.com/JMLIwBm4LZae54ntJMAMhzYwhPDEqnOgIE8l8tiAeQJg9cUBvLEQkANS2jo_qX1FLc5nOoVTRcL3gkwne48ppcFzw1PZDJUXFlpxrd3AEYFtcn1bSRnCRUo46Ge2IDRDKo2_spH3]]
+![image](https://lh3.googleusercontent.com/JMLIwBm4LZae54ntJMAMhzYwhPDEqnOgIE8l8tiAeQJg9cUBvLEQkANS2jo_qX1FLc5nOoVTRcL3gkwne48ppcFzw1PZDJUXFlpxrd3AEYFtcn1bSRnCRUo46Ge2IDRDKo2_spH3)
 
  
 
@@ -405,7 +405,3 @@ Clearly illustrates an understanding of the topic covered in the question.</td>
     <td>Met all of the requirements listed for the question.</td>
   </tr>
 </table>
-
-
-Published by [Google Drive](https://docs.google.com/)–[Report Abuse](https://docs.google.com/abuse?id=1_DZWO_dxB06bS9UEIHvo-oPE6MxIUxkiJZ-pjCU58cE)–Updated automatically every 5 minutes
-
