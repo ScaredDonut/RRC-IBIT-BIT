@@ -1,10 +1,3 @@
----
-title: Assignment Five - Booleans, Conditional and the Draw Loop
-layout: post
-permalink: /untitled-document/
-source-id: 1BGBMhVZn7MBHSO2bzAs7FHwRvkSBRMj7AVxXfDd5zGs
-published: true
----
 **Assignment Five - Booleans, Conditional and the Draw Loop**
 
  
