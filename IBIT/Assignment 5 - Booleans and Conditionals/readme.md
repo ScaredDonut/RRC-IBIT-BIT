@@ -206,7 +206,7 @@ Type the following sketch into the processing IDE and run it. Then read the expl
 
  
 
-![image alt text]({{ site.url }}/public/BzC7fC6PnqJDi1LkGd2GyQ_img_0.png)
+[[https://lh3.googleusercontent.com/JMLIwBm4LZae54ntJMAMhzYwhPDEqnOgIE8l8tiAeQJg9cUBvLEQkANS2jo_qX1FLc5nOoVTRcL3gkwne48ppcFzw1PZDJUXFlpxrd3AEYFtcn1bSRnCRUo46Ge2IDRDKo2_spH3]]
 
  
 
