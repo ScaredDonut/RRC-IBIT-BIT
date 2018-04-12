@@ -1,27 +1,17 @@
----
-title: Assignment Six - While and For Loops
-layout: post
-permalink: /untitled-document/
-source-id: 1BGBMhVZn7MBHSO2bzAs7FHwRvkSBRMj7AVxXfDd5zGs
-published: true
----
 **Assignment Six - While and For Loops**
+
+__
 
 ** **Objective
 
-** **
 
 **In this assignment we will be working with while and for loops in combination with if/else conditionals.**
 
-** **
 
 **The first two questions were designed to show you that an equivalent while loop exists for every for loop, and vis-versa.**
 
-** **
-
 **Note: ****_None of these programs need a setup() or draw() function._**
 
-** **
 
 # Program Requirements
 
